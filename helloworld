@@ -1,4 +1,2 @@
-cat a.sh
-echo "hello world"
-echo "after changes"
-bash a.sh
+echo "hello world" >file1.txt
+

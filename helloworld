@@ -1,2 +1,3 @@
-echo "hello world" >file.txt
-
+cat a.sh
+echo "hello world"
+bash a.sh
